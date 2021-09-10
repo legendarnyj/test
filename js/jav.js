@@ -44,5 +44,15 @@
 // let right = "5"; унарные бинарные правила + перед строкой плюсует значения, без + они перед данными они не складываются
 // let left = "25";
 // alert(+right+ +left);
+//"+" может складывать строки остальные все 
 
-// Base operators, math
+// let cifra = 9 + 9 + '9' + 9;
+// alert(cifra);
+
+let zig = "5";
+let zag = "10";
+alert(+zig + +zag);//унарный плюс складывает значения
+
+let counter = 1;
+alert( 2 * counter );
+counter++;
