@@ -49,10 +49,12 @@
 // let cifra = 9 + 9 + '9' + 9;
 // alert(cifra);
 
-let zig = "5";
-let zag = "10";
-alert(+zig + +zag);//унарный плюс складывает значения
+// let zig = "5";
+// let zag = "10";
+// alert(+zig + +zag);//унарный плюс складывает значения
 
-let counter = 1;
-alert( 2 * counter );
-counter++;
+// let counter = 1;
+// alert( 2 * counter );
+// counter++;
+console.log(3>2);
+alert(false||false);
