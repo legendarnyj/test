@@ -56,5 +56,3 @@
 // let counter = 1;
 // alert( 2 * counter );
 // counter++;
-console.log(3>2);
-alert(false||false);
